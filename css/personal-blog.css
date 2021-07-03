@@ -1,0 +1,15 @@
+h1{
+    color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 500px;
+    width: 200;
+    
+}
+div{
+    display: inline;
+}
+h3{
+    display: inline;
+}
